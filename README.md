@@ -21,7 +21,7 @@
 
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthic-45&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=0A66C2&line=0A66C2&point=00D4AA" width="400"/>
 
-I'm a **Backend Developer** and **GenAI Engineer** from Tamil Nadu, India, currently pursuing **B.E. Computer Science (IoT)** at Sri Krishna College of Technology (2024–2028).
+I'm a **Backend Developer** and **IOT Engineer** from Tamil Nadu, India, currently pursuing **B.E. Computer Science (IoT)** at Sri Krishna College of Technology (2024–2028).
 
 I build **scalable enterprise backends** with Java and Spring Boot, design **RAG-based document intelligence pipelines** using LangChain and FAISS, and architect secure microservices systems with JWT and RBAC.
 
